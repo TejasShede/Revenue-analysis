@@ -1,5 +1,4 @@
 # Revenue-analysis
-
 📊 Manager-Based Revenue Analysis Dashboard
 An advanced Excel Dashboard featuring interactive dropdowns to analyze revenue by manager.
 
